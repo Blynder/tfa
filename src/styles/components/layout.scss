@@ -1,0 +1,21 @@
+.objectif{
+  width: 400px;
+  height: 200px;
+  background-color: red;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
+
+.objectif__validationYes{
+  background-color: green;
+  color: white;
+}
+.objectif__validationNo{
+  background-color: red;
+  color: white;
+}
+
+.hide{
+  display: none;
+}
